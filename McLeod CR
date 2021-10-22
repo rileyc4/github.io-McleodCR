@@ -1,0 +1,14 @@
+echo "# McLeod-CR" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rileyc4/McLeod-CR.git
+git push -u origin main
+
+{
+	
+<div style="background-image: url('img_girl.jpg');">
+
+	
+}
